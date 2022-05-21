@@ -8,4 +8,5 @@ Note;the login and create account are just an imitation, so they cant truck your
 
 the application apk is in the following path i the repository file path below;
 /home/ndyanabo/Documents/Restaurant/app/build/intermediates/apk/debug/app-debug.apk
+ 
 
