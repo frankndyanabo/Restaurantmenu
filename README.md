@@ -6,7 +6,6 @@ you to the create account page immitation.
 Note;the login and create account are just an imitation, so they cant truck your data since they are not connected to any database to do so liike firebase..
 
 
-the application apk is in the following path i the repository file path below;
-/home/ndyanabo/Documents/Restaurant/app/build/intermediates/apk/debug/app-debug.apk
+the application apk is addede among the files,named as restaurant_menu_apk
  
 
