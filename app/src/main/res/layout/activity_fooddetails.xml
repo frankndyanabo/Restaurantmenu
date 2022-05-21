@@ -5,6 +5,7 @@
     android:id="@+id/iceream"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:theme="@style/Theme.MaterialComponents.NoActionBar.Bridge"
     android:background="@color/lightorange"
     tools:context=".fooddetails">
 
